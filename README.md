@@ -1,5 +1,5 @@
-# Zsh terminal cheatsheet ![Zsh icon found randomly on internet from iconninja.com ](https://www.iconninja.com/files/453/622/502/zsh-icon.png)
-
+![Zsh icon found randomly on internet from iconninja.com ](https://www.iconninja.com/files/453/622/502/zsh-icon.png)
+# Zsh terminal cheatsheet 
 ## keyboard shortcuts
 
 **Ctl + L** - _clear the terminal screen_  
