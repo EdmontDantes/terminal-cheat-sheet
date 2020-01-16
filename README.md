@@ -1,4 +1,4 @@
-# Zsh terminal cheatsheet
+# Zsh terminal cheatsheet ![Zsh icon found randomly on internet from iconninja.com ](https://www.iconninja.com/files/453/622/502/zsh-icon.png)
 
 ## keyboard shortcuts
 
@@ -28,4 +28,5 @@ _use_ **command** _+ up or down to view the terminal screen_
 **mv** - _move OR rename_  
 **rmdir dir** - _remove directory not a lot on it with man pages_  
 **clear** - _clears the terminal screen_  
-**history** - _ability to view the previously used_ 
+**history** - _ability to view the previously used_  
+**cat** - _concatenate (fancy word) view file contents or manipulate commands_ 
